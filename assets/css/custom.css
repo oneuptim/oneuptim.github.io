@@ -1,0 +1,33 @@
+/**
+ * CUSTOM CSS
+ *
+ * Here you can add your custom CSS code.
+ */
+
+ .t-title__first-word {
+     text-transform: uppercase;
+     font-weight: 200;
+ }
+
+ .t-image-overlay {
+     background: #000;
+ }
+
+ .nivo-lightbox-theme-default.nivo-lightbox-overlay {
+    background: #000000;
+    background: rgba(0,0,0,0.9);
+}
+
+.responsibilities {
+  font-size: 0.84em;
+  font-style: italic;
+}
+
+html {
+  font-family: proxima-nova, sans-serif;
+  font-style: normal;
+  font-weight: 100;  
+}
+
+
+/*# sourceMappingURL=custom.css.map */
