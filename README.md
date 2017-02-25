@@ -7,6 +7,7 @@ I posses strong written and verbal communication skills and enjoy collaborating 
 
 # Programming Skills
 Check out my work on my Github repo or browse through a select few on here.
+
 Languages: Python, Javascript, Ruby | Frameworks: Django, Flask, Ruby on Rails, Mongoose, Express, Socket.io, AngularJS, Ionic | Front-End Development: HTML5, CSS3, JavaScript, jQuery, Ajax, Twitter Bootstrap | Servers: Node.js, Nginx, AWS | Databases: SQL (MySQL), NoSQL(MongoDB), SQLite | Version Control: Git/Github | Methodology: OOP, MVC, RESTful Architecture.
 
 # Contact
