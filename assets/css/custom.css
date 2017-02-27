@@ -54,9 +54,17 @@ h1, h2, h3, .c-number, h4, h5, h6 {
     font-family: futura-pt, sans-serif;
 }
 
+.c-work__heading {
+  margin-bottom: -0.4rem;
+}
+
 .t-title__second-word {
     text-transform: uppercase;
     font-weight: 400;
+}
+
+h2 {
+  margin-bottom: -0.4rem;
 }
 
 /*# sourceMappingURL=custom.css.map */
