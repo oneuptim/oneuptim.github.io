@@ -24,9 +24,12 @@
 }
 
 html {
-  font-family: "macho",sans-serif;
+  font-family: "futura-pt",sans-serif;
   font-style: normal;
-  font-weight: 100;
+}
+
+body {
+  font-family: "futura-pt",sans-serif;
 }
 
 
