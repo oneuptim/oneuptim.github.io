@@ -30,7 +30,33 @@ html {
 
 body {
   font-family: "futura-pt",sans-serif;
+  font-weight: 100;
+  font-size: 1.02rem;
+  line-height: 1.5;
 }
 
+h1, h2, h3, .c-number, h4, h5, h6 {
+    font-family: futura-pt, sans-serif;
+    font-weight: 500;
+}
+
+.c-work__title {
+  font-size: 1rem;
+  font-weight: 200;
+  margin-bottom: 0.2rem;
+}
+
+.c-work__timeframe, .c-work__location {
+  font-size: 0.78rem;
+}
+
+.c-brand__title, .c-brand__sub-title {
+    font-family: futura-pt, sans-serif;
+}
+
+.t-title__second-word {
+    text-transform: uppercase;
+    font-weight: 400;
+}
 
 /*# sourceMappingURL=custom.css.map */
