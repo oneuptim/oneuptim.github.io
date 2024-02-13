@@ -14,4 +14,4 @@ Check out my work on my Github repo or browse through a select few on here.
 Languages: Javascript, Ruby, Python | Frameworks: Django, Flask, Ruby on Rails, Mongoose, Express, Socket.io, AngularJS, Ionic | Libraries: React, ApexCharts, Front-End Development: React, HTML5, CSS3, JavaScript, jQuery, Ajax, Twitter Bootstrap | Servers: Node.js, Nginx, AWS | Databases: SQL (MySQL), NoSQL(MongoDB), SQLite | Version Control: Git/Github | Methodology: OOP, MVC, RESTful Architecture | API Tools: GraphQL.
 
 # Contact
-Phone 702.409.1272 • Email tim@30streams.com • Web http://oneuptim.github.io
+Phone 702.409.XXXX • Email mainaplus@gmail.com • Web http://oneuptim.github.io
